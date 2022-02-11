@@ -1,2 +1,2 @@
-# render-react-component
+# MyReact1
 Created with CodeSandbox
